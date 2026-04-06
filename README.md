@@ -54,4 +54,4 @@
 
 **RESULT:**
 
-*ThusKirchoff’s Current Law and Kirchoff’s Voltage law are verified practically and theoretically.*
+*Thus Kirchoff’s Current Law and Kirchoff’s Voltage law are verified practically and theoretically.*
